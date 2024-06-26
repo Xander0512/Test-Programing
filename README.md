@@ -39,11 +39,11 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-  1
-  22
-  333
-  4444
-  55555
+    1
+    22
+    333
+    4444
+    55555
     ```
 ## Hasil keluaran ( Output ) dari soal no 2b.
   
