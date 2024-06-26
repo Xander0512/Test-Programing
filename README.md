@@ -7,7 +7,7 @@ Nama    : Alex Sander Hutapea
 Tanggal : 26 Juni 2024
 
 ## Description
-Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package yang dimana package tersebut berisi codingan dari tiap soal yang telah dikerjan.
+Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package yang dimana package tersebut berisi codingan dari tiap soal yang telah diselesaikan.
 
 ## Requirements
 
