@@ -28,7 +28,7 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-   1 2 OK YES 5 OK 7 YES OK 10 11 OKYES 13 14 OK
+     1 2 OK YES 5 OK 7 YES OK 10 11 OKYES 13 14 OK
     ```
 
 ## Hasil keluaran ( Output ) dari soal no 2a.
@@ -53,11 +53,11 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-  1 
-  2 1 
-  3 2 1 
-  4 3 2 1 
-  5 4 3 2 1
+    1 
+    2 1 
+    3 2 1 
+    4 3 2 1 
+    5 4 3 2 1
     ```
 
   ## Hasil keluaran ( Output ) dari soal no 2c.
@@ -68,11 +68,11 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-  1
-  23
-  454
-  3212
-  34543
+    1
+    23
+    454
+    3212
+    34543
     ```
     
   ## Hasil keluaran ( Output ) dari soal no 2d.
@@ -83,11 +83,11 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-  1 10 11 20 21 
-  2 9 12 19 22 
-  3 8 13 18 23 
-  4 7 14 17 24 
-  5 6 15 16 25
+    1 10 11 20 21 
+    2 9 12 19 22 
+    3 8 13 18 23 
+    4 7 14 17 24 
+    5 6 15 16 25
     ```
   ## Hasil keluaran ( Output ) dari soal no 3.
   
@@ -97,21 +97,19 @@ Pengerjaan test programing menggunakan bahasa java dan mySQL. Terdapat 4 package
     ```
   - Output
     ```bash
-   n = [2, 4, 7, 10, 13]
+     n = [2, 4, 7, 10, 13]
     ```
 
   ## Hasil keluaran ( Output ) dari soal no 4.
   Untuk soal No. 4 menggunakan mySQL, query untuk membuat database : 
- ```bash
-   
-  
-  CREATE TABLE pelanggan (
+ ```bash   
+ CREATE TABLE pelanggan (
     kode VARCHAR(11) PRIMARY KEY,
     nama VARCHAR(255),
     alamat VARCHAR(255)
 );
 
-CREATE TABLE transaksi (
+ CREATE TABLE transaksi (
     kode VARCHAR(11) PRIMARY KEY,
     tanggal DATE,
     kode_pelanggan  VARCHAR(11),
